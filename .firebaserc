@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "carousel-a9bb7": {
+      "hosting": {
+        "ngCarousel": [
+          "carousel-a9bb7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "carousel-a9bb7"
+  }
+}
